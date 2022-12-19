@@ -1,0 +1,1 @@
+# medium-replica-patika
