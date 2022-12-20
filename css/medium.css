@@ -1,0 +1,19 @@
+body {
+    font-family: 'PT Serif', serif;
+}
+
+.bg-yellow {
+    background-color: #FFC017;
+}
+
+.border-bottom-dark {
+    border-bottom: 1px solid rgb(41, 41, 41);
+}
+
+.test-for-tabnine {
+    background-color: #FFC017;
+}
+
+.aside-buttons > li {
+    margin-bottom: 10px;
+}
